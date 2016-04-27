@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentatiocrit02karsgoog_0009.png"; bbox 0 0 3025 5067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 850 1798 1934 1853">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 850 1798 1934 1853">
+     <span class='ocr_line' id='line_1_1' title="bbox 850 1798 1934 1853; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 850 1798 1512 1853; x_wconf 73' lang='lat' dir='ltr'><strong>COMMENTATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1570 1798 1934 1853; x_wconf 81' lang='lat' dir='ltr'>CRITICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 441 2256 2377 2373">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 441 2256 2377 2373">
+     <span class='ocr_line' id='line_1_2' title="bbox 441 2256 2377 2373; baseline -0.002 -20"><span class='ocrx_word' id='word_1_3' title='bbox 441 2258 906 2353; x_wconf 77' lang='lat' dir='ltr'><strong>PLATONIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 974 2258 1227 2372; x_wconf 84' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1291 2257 1801 2352; x_wconf 78' lang='lat' dir='ltr'>FERUNTUR</span> <span class='ocrx_word' id='word_1_6' title='bbox 1868 2256 2377 2373; x_wconf 79' lang='lat' dir='ltr'>EPISTOLIS‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1252 2528 1533 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1252 2528 1533 2565">
+     <span class='ocr_line' id='line_1_3' title="bbox 1252 2528 1533 2565; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1252 2529 1348 2565; x_wconf 68' lang='lat' dir='ltr'>Plu</span> <span class='ocrx_word' id='word_1_8' title='bbox 1354 2528 1533 2565; x_wconf 81' lang='lat' dir='ltr'>EEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 723 2738 2054 2796">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 723 2738 2054 2796">
+     <span class='ocr_line' id='line_1_4' title="bbox 723 2738 2054 2796; baseline 0.002 -3"><span class='ocrx_word' id='word_1_9' title='bbox 723 2739 1060 2795; x_wconf 78' lang='lat' dir='ltr'>&#39;I&#39;ER&#39;I&#39;IA</span> <span class='ocrx_word' id='word_1_10' title='bbox 1096 2739 1487 2796; x_wconf 70' lang='lat' dir='ltr'>SEPTIMA</span> <span class='ocrx_word' id='word_1_11' title='bbox 1523 2738 1637 2795; x_wconf 70' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1676 2739 2054 2795; x_wconf 68' lang='grc' dir='ltr'><strong>ΟΟΤΔῪΔ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
